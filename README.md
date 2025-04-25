@@ -1,5 +1,5 @@
 
-<!--Hi there, I'm Kunal Sinha! 👋
+ Hi there, I'm Kunal Sinha! 👋
 🚀 Aspiring Software Engineer | Cloud Computing Enthusiast | DevOps Learner
 
 I'm a pre-final year B.Tech student specializing in Cloud Computing & Virtualization Technology at UPES, Dehradun. Passionate about building efficient, scalable solutions and diving into modern DevOps tools, I aim to bridge theory and real-world impact through continuous learning and hands-on experience.
