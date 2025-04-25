@@ -41,7 +41,7 @@ Kunal's GitHub Stats
 🌐 Portfolio-![Profile Picture](https://github.com/kunalsinha26/My_Portfolio/KunalSinha_Portfolio/portfolio/assets/images/profilepic.jpg)
 
 
-🚀Portfoli-
+🚀Portfolio-(https://kunalsinha26.github.io/myportfolio/)
 
 
 📧 Email: kunaljaya22@gmail.com.com
