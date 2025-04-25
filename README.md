@@ -30,10 +30,20 @@ Kunal's GitHub Stats
 
 
 💼 LinkedIn-https://www.linkedin.com/in/kunal-sinha-24070424b/
+
+
 🧑‍💻 GitHub-https://github.com/kunalsinha26
+
+
 🧠 Leetcode-https://leetcode.com/u/KunalS30/
+
+
 🌐 Portfolio-
+
+
 📧 Email: kunaljaya22@gmail.com.com
+
+
 📸 Profile Photo: "C:\Users\Lenovo\Desktop\KunalSinha_Portfolio\portfolio\assets\images\profilepic.jpg"
 
 Let's connect and collaborate on exciting tech projects! 🚀
