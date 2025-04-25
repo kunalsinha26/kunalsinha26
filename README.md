@@ -38,9 +38,7 @@ Kunal's GitHub Stats
 🧠 Leetcode-https://leetcode.com/u/KunalS30/
 
 
-🌐 Portfolio-![Profile Picture](https://github.com/kunalsinha26/My_Portfolio/blob/main/assets/images/profilepic.jpg)
-
-
+🌐 Portfolio-![Profile Picture](https://github.com/kunalsinha26/My_Portfolio/KunalSinha_Portfolio/portfolio/assets/images/profilepic.jpg)
 
 
 
